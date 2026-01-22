@@ -18,11 +18,11 @@ The “?” wildcard character can be used to represent missing letters and disc
 Both Turkish and English dictionaries function without an internet connection, ensuring fast and uninterrupted searches at all times.
 
 ## Features
-★ Turkish and English dictionary support
-★ Turkish dictionary based on TDK sources
-★ Fully offline local dictionaries
-★ Find words from given letters
-★ Search by starting or ending letters
-★ Search words containing specific letters
-★ Wildcard (“?”) letter support
-★ Minimum and maximum word length filters
+- Turkish and English dictionary support
+- Turkish dictionary based on TDK sources
+- Fully offline local dictionaries
+- Find words from given letters
+- Search by starting or ending letters
+- Search words containing specific letters
+- Wildcard (“?”) letter support
+- Minimum and maximum word length filters
