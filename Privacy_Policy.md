@@ -23,11 +23,11 @@ WordLexa – Word Game Helper:
 
 4. ## Data Collection Summary
 The application:
-❌ does not collect personal data
-❌ does not collect usage data
-❌ does not collect analytics or tracking data
-❌ does not use advertising SDKs
-❌ does not use third-party trackers
+- does not collect personal data
+- does not collect usage data
+- does not collect analytics or tracking data
+- does not use advertising SDKs
+- does not use third-party trackers
 All core features work fully offline using a locally cached dictionary stored on the device.
 
 5. ## Internet Access Usage
