@@ -69,4 +69,4 @@ Any changes will be reflected by updating the effective date at the top of this 
 
 12. Contact Us
 If you have any questions about this Privacy Policy, you may contact us at:
-📧 ecgegames@gmail.com
+📧 crackthecodeleague@gmail.com
